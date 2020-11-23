@@ -1,0 +1,11 @@
+EC2 instance type
+
+General purpose: a balance of compute, memory, and networking resources
+
+Compute optimized instances: high-performance processors. ideal for high-performance web servers, compute-intensive applications servers, and dedicated gaming servers. You can also use compute optimized instances for batch processing workloads that require processing many transactions in a single group.
+
+Memory optimized instances: fast performance for workloads that process large datasets in memory. ideal for workload that requires large amounts of data to be preloaded before running an application, performing real-time processing of a large amount of unstructured data
+
+Accelerated computing instances: use hardware accelerators, or coprocessors, to perform some functions more efficiently than is possible in software running on CPUs. ideal for floating-point number calculations, graphics processing, and data pattern matching; graphics applications, game streaming, and application streaming.
+
+Storage optimized instances: high, sequential read and write access to large datasets on local storage
